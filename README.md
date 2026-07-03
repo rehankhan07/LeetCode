@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/rehankhan07/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rehankhan07/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/rehankhan07/LeetCode/tree/master/0189-rotate-array) |
+| [0485-max-consecutive-ones](https://github.com/rehankhan07/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/rehankhan07/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
