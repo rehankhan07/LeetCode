@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rehankhan07/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/rehankhan07/LeetCode/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/rehankhan07/LeetCode/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/rehankhan07/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/rehankhan07/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
