@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rehankhan07/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/rehankhan07/LeetCode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/rehankhan07/LeetCode/tree/master/0263-ugly-number) |
+| [1025-divisor-game](https://github.com/rehankhan07/LeetCode/tree/master/1025-divisor-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rehankhan07/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rehankhan07/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rehankhan07/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -74,8 +75,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rehankhan07/LeetCode/tree/master/0070-climbing-stairs) |
+| [1025-divisor-game](https://github.com/rehankhan07/LeetCode/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rehankhan07/LeetCode/tree/master/0070-climbing-stairs) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/rehankhan07/LeetCode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/rehankhan07/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
