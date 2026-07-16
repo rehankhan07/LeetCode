@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rehankhan07/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/rehankhan07/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/rehankhan07/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/rehankhan07/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/rehankhan07/LeetCode/tree/master/0263-ugly-number) |
 | [1025-divisor-game](https://github.com/rehankhan07/LeetCode/tree/master/1025-divisor-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rehankhan07/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/rehankhan07/LeetCode/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rehankhan07/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Prefix Sum
 |  |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rehankhan07/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/rehankhan07/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
