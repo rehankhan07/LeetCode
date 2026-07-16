@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/rehankhan07/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/rehankhan07/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rehankhan07/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rehankhan07/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rehankhan07/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/rehankhan07/LeetCode/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/rehankhan07/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rehankhan07/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rehankhan07/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rehankhan07/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rehankhan07/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rehankhan07/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/rehankhan07/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rehankhan07/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rehankhan07/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rehankhan07/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
 |  |
 | ------- |
@@ -104,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rehankhan07/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rehankhan07/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
