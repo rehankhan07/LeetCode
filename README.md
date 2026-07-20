@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/rehankhan07/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rehankhan07/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rehankhan07/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rehankhan07/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rehankhan07/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/rehankhan07/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/rehankhan07/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/rehankhan07/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/rehankhan07/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rehankhan07/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rehankhan07/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rehankhan07/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rehankhan07/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rehankhan07/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Enumeration
 |  |
 | ------- |
