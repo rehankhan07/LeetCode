@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/rehankhan07/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/rehankhan07/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rehankhan07/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rehankhan07/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/rehankhan07/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/rehankhan07/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rehankhan07/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/rehankhan07/LeetCode/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/rehankhan07/LeetCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/rehankhan07/LeetCode/tree/master/0796-rotate-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rehankhan07/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rehankhan07/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sorting
 |  |
