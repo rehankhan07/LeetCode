@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/rehankhan07/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rehankhan07/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/rehankhan07/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rehankhan07/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/rehankhan07/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rehankhan07/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rehankhan07/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rehankhan07/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rehankhan07/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/rehankhan07/LeetCode/tree/master/0263-ugly-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rehankhan07/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/rehankhan07/LeetCode/tree/master/1025-divisor-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rehankhan07/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rehankhan07/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rehankhan07/LeetCode/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rehankhan07/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/rehankhan07/LeetCode/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rehankhan07/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/rehankhan07/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rehankhan07/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/rehankhan07/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
