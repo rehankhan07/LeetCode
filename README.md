@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/rehankhan07/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rehankhan07/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/rehankhan07/LeetCode/tree/master/1089-duplicate-zeros) |
+| [1768-merge-strings-alternately](https://github.com/rehankhan07/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rehankhan07/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rehankhan07/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rehankhan07/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/rehankhan07/LeetCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/rehankhan07/LeetCode/tree/master/0796-rotate-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rehankhan07/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1768-merge-strings-alternately](https://github.com/rehankhan07/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rehankhan07/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sorting
 |  |
