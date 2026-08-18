@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rehankhan07/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rehankhan07/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/rehankhan07/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rehankhan07/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/rehankhan07/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/rehankhan07/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rehankhan07/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rehankhan07/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rehankhan07/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/rehankhan07/LeetCode/tree/master/0061-rotate-list) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rehankhan07/LeetCode/tree/master/0011-container-with-most-water) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rehankhan07/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2029-stone-game-ix](https://github.com/rehankhan07/LeetCode/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
