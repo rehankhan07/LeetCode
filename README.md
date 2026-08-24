@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/rehankhan07/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/rehankhan07/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rehankhan07/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/rehankhan07/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/rehankhan07/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/rehankhan07/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rehankhan07/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/rehankhan07/LeetCode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rehankhan07/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/rehankhan07/LeetCode/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/rehankhan07/LeetCode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/rehankhan07/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/rehankhan07/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rehankhan07/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/rehankhan07/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/rehankhan07/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rehankhan07/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/rehankhan07/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rehankhan07/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/rehankhan07/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/rehankhan07/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rehankhan07/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rehankhan07/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0455-assign-cookies](https://github.com/rehankhan07/LeetCode/tree/master/0455-assign-cookies) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rehankhan07/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2029-stone-game-ix](https://github.com/rehankhan07/LeetCode/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
@@ -480,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rehankhan07/LeetCode/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/rehankhan07/LeetCode/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
