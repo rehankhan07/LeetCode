@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/rehankhan07/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/rehankhan07/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/rehankhan07/LeetCode/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/rehankhan07/LeetCode/tree/master/0402-remove-k-digits) |
 | [0520-detect-capital](https://github.com/rehankhan07/LeetCode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/rehankhan07/LeetCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/rehankhan07/LeetCode/tree/master/0796-rotate-string) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rehankhan07/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rehankhan07/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/rehankhan07/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/rehankhan07/LeetCode/tree/master/0455-assign-cookies) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rehankhan07/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2029-stone-game-ix](https://github.com/rehankhan07/LeetCode/tree/master/2029-stone-game-ix) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/rehankhan07/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rehankhan07/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/rehankhan07/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/rehankhan07/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/rehankhan07/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rehankhan07/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/rehankhan07/LeetCode/tree/master/0682-baseball-game) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/rehankhan07/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/rehankhan07/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/rehankhan07/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rehankhan07/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rehankhan07/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
