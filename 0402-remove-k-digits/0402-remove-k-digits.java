@@ -14,22 +14,15 @@ class Solution {
             k--;
            }
         String r = "";
-
         while(!st.isEmpty()){
             r += st.pop();
         }
-
-        // Reverse because stack gives characters backwards
         r = new StringBuilder(r).reverse().toString();
-
-        // Remove leading zeros
         int i = 0;
         while(i < r.length() && r.charAt(i) == '0'){
             i++;
         }
-
         if(i == r.length()) return "0";
-
         return r.substring(i);
     }
 }
