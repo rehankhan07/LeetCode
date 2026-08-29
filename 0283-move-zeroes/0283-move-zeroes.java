@@ -8,8 +8,7 @@ class Solution {
             }
         }
         while (insertPos < nums.length) {
-            nums[insertPos] = 0;
-            insertPos++;
+            nums[insertPos++] = 0;
         }
     }
 }
