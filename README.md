@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/rehankhan07/LeetCode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/rehankhan07/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rehankhan07/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/rehankhan07/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rehankhan07/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rehankhan07/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/rehankhan07/LeetCode/tree/master/0414-third-maximum-number) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rehankhan07/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/rehankhan07/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rehankhan07/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/rehankhan07/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/rehankhan07/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/rehankhan07/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/rehankhan07/LeetCode/tree/master/0605-can-place-flowers) |
@@ -526,4 +528,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/rehankhan07/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/rehankhan07/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
