@@ -20,11 +20,12 @@ class Solution {
                 end--;
             }
         }
-       String k ="";
-       for(int i=0;i<ch.length;i++){
-        k+=ch[i];
-       }
-       return k;
+    //    String k ="";
+    //    for(int i=0;i<ch.length;i++){
+    //     k+=ch[i];
+    //    }
+    //    return k;
+    return String.valueOf(ch);
     }
   
 }
