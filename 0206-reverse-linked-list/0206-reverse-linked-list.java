@@ -20,6 +20,5 @@ class Solution {
             curr=after;
         }
         return pre;
-       
     }
 }
