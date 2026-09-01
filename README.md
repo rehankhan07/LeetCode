@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rehankhan07/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/rehankhan07/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2029-stone-game-ix](https://github.com/rehankhan07/LeetCode/tree/master/2029-stone-game-ix) |
+| [2057-smallest-index-with-equal-value](https://github.com/rehankhan07/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rehankhan07/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/rehankhan07/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2574-left-and-right-sum-differences](https://github.com/rehankhan07/LeetCode/tree/master/2574-left-and-right-sum-differences) |
