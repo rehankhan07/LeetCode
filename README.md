@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rehankhan07/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rehankhan07/LeetCode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/rehankhan07/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/rehankhan07/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/rehankhan07/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rehankhan07/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/rehankhan07/LeetCode/tree/master/0260-single-number-iii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rehankhan07/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/rehankhan07/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/rehankhan07/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/rehankhan07/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rehankhan07/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rehankhan07/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rehankhan07/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/rehankhan07/LeetCode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/rehankhan07/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/rehankhan07/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/rehankhan07/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rehankhan07/LeetCode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/rehankhan07/LeetCode/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rehankhan07/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rehankhan07/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/rehankhan07/LeetCode/tree/master/0229-majority-element-ii) |
 | [2029-stone-game-ix](https://github.com/rehankhan07/LeetCode/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rehankhan07/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Matrix
@@ -559,4 +563,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rehankhan07/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/rehankhan07/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
