@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/rehankhan07/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/rehankhan07/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/rehankhan07/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/rehankhan07/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rehankhan07/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rehankhan07/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rehankhan07/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/rehankhan07/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1859-sorting-the-sentence](https://github.com/rehankhan07/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rehankhan07/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2000-reverse-prefix-of-word](https://github.com/rehankhan07/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rehankhan07/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sorting
 |  |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rehankhan07/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rehankhan07/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/rehankhan07/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2000-reverse-prefix-of-word](https://github.com/rehankhan07/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rehankhan07/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/rehankhan07/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
