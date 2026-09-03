@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/rehankhan07/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/rehankhan07/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rehankhan07/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1051-height-checker](https://github.com/rehankhan07/LeetCode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/rehankhan07/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rehankhan07/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rehankhan07/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/rehankhan07/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rehankhan07/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rehankhan07/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/rehankhan07/LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rehankhan07/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rehankhan07/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/rehankhan07/LeetCode/tree/master/1859-sorting-the-sentence) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/rehankhan07/LeetCode/tree/master/0274-h-index) |
+| [1051-height-checker](https://github.com/rehankhan07/LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rehankhan07/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Linked List
 |  |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rehankhan07/LeetCode/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/rehankhan07/LeetCode/tree/master/1051-height-checker) |
 | [1859-sorting-the-sentence](https://github.com/rehankhan07/LeetCode/tree/master/1859-sorting-the-sentence) |
 ## Union-Find
 |  |
