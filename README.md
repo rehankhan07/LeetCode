@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/rehankhan07/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/rehankhan07/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/rehankhan07/LeetCode/tree/master/0455-assign-cookies) |
+| [0844-backspace-string-compare](https://github.com/rehankhan07/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/rehankhan07/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/rehankhan07/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rehankhan07/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/rehankhan07/LeetCode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/rehankhan07/LeetCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/rehankhan07/LeetCode/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/rehankhan07/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rehankhan07/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rehankhan07/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/rehankhan07/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/rehankhan07/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/rehankhan07/LeetCode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/rehankhan07/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1389-create-target-array-in-the-given-order](https://github.com/rehankhan07/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rehankhan07/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rehankhan07/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/rehankhan07/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/rehankhan07/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rehankhan07/LeetCode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/rehankhan07/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rehankhan07/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rehankhan07/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rehankhan07/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
