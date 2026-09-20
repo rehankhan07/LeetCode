@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/rehankhan07/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rehankhan07/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/rehankhan07/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/rehankhan07/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/rehankhan07/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/rehankhan07/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rehankhan07/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/rehankhan07/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rehankhan07/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
