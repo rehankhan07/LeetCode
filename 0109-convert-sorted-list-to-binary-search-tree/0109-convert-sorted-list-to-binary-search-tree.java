@@ -31,17 +31,13 @@ class Solution {
             arr.add(temp.val);
             temp=temp.next;
         }
-        int[] nums= new int[arr.size()];
-        for(int i =0;i< arr.size();i++){
-            nums[i]= arr.get(i);
-        }
-        int n = nums.length-1;
-       return convert(nums,0,n);
+        int n = arr.size()-1;
+       return convert(arr,0,n);
     }
-      public TreeNode convert(int[] nums,int low, int high) {
+      public TreeNode convert(ArrayList<Integer> nums,int low, int high) {
         if(low>high) return null;
         int mid = low+(high-low)/2;
-        TreeNode  root = new TreeNode (nums[mid]);
+        TreeNode  root = new TreeNode (nums.get(mid));
        root.left= convert(nums,low,mid-1);
        root.right=convert(nums,mid+1,high);
        return root;
