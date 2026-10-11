@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rehankhan07/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rehankhan07/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/rehankhan07/LeetCode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/rehankhan07/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/rehankhan07/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/rehankhan07/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rehankhan07/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/rehankhan07/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/rehankhan07/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rehankhan07/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/rehankhan07/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rehankhan07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rehankhan07/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rehankhan07/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rehankhan07/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rehankhan07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rehankhan07/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/rehankhan07/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rehankhan07/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rehankhan07/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rehankhan07/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/rehankhan07/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/rehankhan07/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/rehankhan07/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/rehankhan07/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rehankhan07/LeetCode/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rehankhan07/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/rehankhan07/LeetCode/tree/master/0509-fibonacci-number) |
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/rehankhan07/LeetCode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/rehankhan07/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/rehankhan07/LeetCode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/rehankhan07/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rehankhan07/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/rehankhan07/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/rehankhan07/LeetCode/tree/master/0645-set-mismatch) |
@@ -366,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rehankhan07/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rehankhan07/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rehankhan07/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/rehankhan07/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/rehankhan07/LeetCode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/rehankhan07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rehankhan07/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
