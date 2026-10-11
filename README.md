@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rehankhan07/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/rehankhan07/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/rehankhan07/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/rehankhan07/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rehankhan07/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rehankhan07/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rehankhan07/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/rehankhan07/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/rehankhan07/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/rehankhan07/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rehankhan07/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/rehankhan07/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/rehankhan07/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
@@ -925,4 +927,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rehankhan07/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rehankhan07/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
