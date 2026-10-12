@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rehankhan07/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rehankhan07/LeetCode/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rehankhan07/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0492-construct-the-rectangle](https://github.com/rehankhan07/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/rehankhan07/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rehankhan07/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/rehankhan07/LeetCode/tree/master/0633-sum-of-square-numbers) |
