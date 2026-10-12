@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rehankhan07/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/rehankhan07/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/rehankhan07/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rehankhan07/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rehankhan07/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/rehankhan07/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/rehankhan07/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/rehankhan07/LeetCode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rehankhan07/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1025-divisor-game](https://github.com/rehankhan07/LeetCode/tree/master/1025-divisor-game) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rehankhan07/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Memoization
 |  |
 | ------- |
