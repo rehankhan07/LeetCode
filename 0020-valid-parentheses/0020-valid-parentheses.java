@@ -1,40 +1,16 @@
 class Solution {
     public boolean isValid(String s) {
-          Stack<Character> st= new Stack<>();
-        int n= s.length();
-        for (int i=0;i<n;i++){
-            char ch =s.charAt(i);
-            if (ch=='('||ch=='['|| ch=='{'){
-                st.push(ch);
-            }
-            if(ch==')'){
-                if (st.isEmpty()) return false;
-                if(st.peek()!='('){
-                    return false;
-                }
-                if(st.peek()=='('){
-                    st.pop();
-                }
-            }
-             if(ch==']'){
-                 if (st.isEmpty()) return false;
-                if(st.peek()!='['){
-                    return false;
-                }
-                if(st.peek()=='['){
-                    st.pop();
-                }
-            }
-             if(ch=='}'){
-                if (st.isEmpty()) return false;
-                if(st.peek()!='{'){
-                    return false;
-                }
-                if(st.peek()=='{'){
-                    st.pop();
-                }
-            }
-        }    
-        return st.isEmpty();
+       Stack<Character> st = new Stack<>();
+      for(int i =0;i< s.length();i++){
+        if(s.charAt(i)=='['||s.charAt(i)=='('|| s.charAt(i)=='{') st.push(s.charAt(i));
+        else{
+         if(st.isEmpty()) return false;
+         char cc= st.pop();
+         if(s.charAt(i)=='}' && cc!='{') return false;
+        if(s.charAt(i)==']' && cc!='[') return false;
+       if(s.charAt(i)==')' && cc!='(') return false;
+        }
+      }
+      return st.isEmpty();
     }
 }
