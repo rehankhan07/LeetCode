@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/rehankhan07/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/rehankhan07/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rehankhan07/LeetCode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/rehankhan07/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/rehankhan07/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0860-lemonade-change](https://github.com/rehankhan07/LeetCode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/rehankhan07/LeetCode/tree/master/0877-stone-game) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/rehankhan07/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/rehankhan07/LeetCode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/rehankhan07/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/rehankhan07/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/rehankhan07/LeetCode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rehankhan07/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1025-divisor-game](https://github.com/rehankhan07/LeetCode/tree/master/1025-divisor-game) |
