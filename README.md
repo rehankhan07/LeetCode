@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rehankhan07/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rehankhan07/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rehankhan07/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1492-the-kth-factor-of-n](https://github.com/rehankhan07/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rehankhan07/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1952-three-divisors](https://github.com/rehankhan07/LeetCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rehankhan07/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/rehankhan07/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/rehankhan07/LeetCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rehankhan07/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rehankhan07/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1014,4 +1016,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/rehankhan07/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/rehankhan07/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
