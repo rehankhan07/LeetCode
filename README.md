@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/rehankhan07/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0860-lemonade-change](https://github.com/rehankhan07/LeetCode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/rehankhan07/LeetCode/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/rehankhan07/LeetCode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/rehankhan07/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rehankhan07/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/rehankhan07/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
