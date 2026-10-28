@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rehankhan07/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rehankhan07/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/rehankhan07/LeetCode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/rehankhan07/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rehankhan07/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/rehankhan07/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/rehankhan07/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rehankhan07/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/rehankhan07/LeetCode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/rehankhan07/LeetCode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rehankhan07/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rehankhan07/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/rehankhan07/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/rehankhan07/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/rehankhan07/LeetCode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/rehankhan07/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/rehankhan07/LeetCode/tree/master/0148-sort-list) |
