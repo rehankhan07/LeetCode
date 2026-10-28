@@ -5,9 +5,7 @@ class Solution {
         int area = Math.min(arr[left],arr[right])*(right-left);
         maxarea= Math.max(maxarea,area);
         if(arr[left]<arr[right]) left++;
-        else{
-            right--;
-        }
+        else right--;
       }
       return maxarea;
     }
